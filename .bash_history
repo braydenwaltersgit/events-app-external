@@ -36,3 +36,7 @@ git config --global user.name "braydenwaltersgit"
 git config --global init.defaultBranch main
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/braydenwaltersgit/events-app-internal.git
+git init
