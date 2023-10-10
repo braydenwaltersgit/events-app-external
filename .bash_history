@@ -28,3 +28,11 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/braydenwaltersgit/events-app-external.git
 git push -u origin main
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/braydenwaltersgit/events-app-external.git
+git config --global user.email "brwalters@deloitte.com"
+git config --global user.name "braydenwaltersgit"
+git config --global init.defaultBranch main
+git config --global --list
+git init
