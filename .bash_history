@@ -23,3 +23,8 @@ git commit -m "Initial commit"
 git remote add origin git remote add origin https://github.com/braydenwaltersgit/events-app-internal.git
 git push -u origin main
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/braydenwaltersgit/events-app-external.git
+git push -u origin main
+git init
