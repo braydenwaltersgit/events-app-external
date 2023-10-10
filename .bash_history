@@ -49,3 +49,30 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/braydenwaltersgit/events-app-internal.git
 git push -u origin main
+git add .
+git commit -m "My first change"
+git push origin main
+git branch
+ls
+cd events-app/
+ls
+rm -rf external/
+rm -rf internal/
+git clone https://github.com/aryarahnama/events-app-external.git
+ls
+ls events-app-external/
+git clone https://github.com/aryarahnama/events-app-internal.git
+ls
+cd events-app-external/
+ls -a
+git branch
+git pull
+git status
+git branch
+git remote
+git remote origin
+git pull origin development
+git checkout development
+git branch
+git branch new-feature-brayden
+git checkout new-feture-brayden
